@@ -24,7 +24,7 @@
         peaceall apps
 
     </author>
- <!--<content src="index.html"> -->
+ <content src="index.html">
 
     <preference name="orientation" value="portrait" />
 
