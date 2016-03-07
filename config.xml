@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+
+        id = "com.peaceallapps.sample"
+
+        version = "1.1.1">
+
+
+    <name>hello sample</name>
+
+
+    <description>
+
+        testing the faisability of the app on phone
+    </description>
+
+
+    <author>
+
+        peaceall apps
+
+    </author>
+ <!--<content src="index.html"> -->
+
+    <preference name="orientation" value="portrait" />
+
+    <preference name="target-device" value="universal" />
+
+    <preference name="fullscreen" value="false" />
+
+    <preference name="android-installLocation" value="auto" /> 
+
+
+</widget>
+
