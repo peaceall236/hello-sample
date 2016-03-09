@@ -17,7 +17,7 @@
         peaceall apps 
     </author>
 
-<!--<content src="index.html"/>-->
+<content src="index.html"/>
 <preference name="permissions" value="none"/>
 <preference name="orientation" value="portrait"/>
 <icon src="icon.jpeg"/>
