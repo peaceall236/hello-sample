@@ -13,7 +13,6 @@
     <author href="https://github.com/peaceall236"		email="roiry25@gmail.com">
         Peace ALL
     </author>
-    <preference value="3.5.0" name="phonegap-version"/>
 <feature name="http://api.phonegap.com/1.0/network"/>
     <access origin="*" />
 
