@@ -14,19 +14,7 @@
         Peace ALL
     </author>
     <preference value="3.5.0" name="phonegap-version"/>
-
-    <!-- icons -->
-    <icon src="icon_057.png" gap:role="default" />
-    <icon src="Content/images/icons/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
-    <icon src="Content/images/icons/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
-    <icon src="Content/images/icons/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
-    <gap:splash src="splash.png" />
-    <gap:splash src="splash/android/ldpi.png" gap:platform="android" gap:density="ldpi"/>
-    <gap:splash src="splash/android/mdpi.png" gap:platform="android" gap:density="mdpi"/>
-    <gap:splash src="splash/android/hdpi.png" gap:platform="android" gap:density="hdpi"/>
-    
-    <!-- api access -->
-    <feature name="http://api.phonegap.com/1.0/network"/>
+<feature name="http://api.phonegap.com/1.0/network"/>
     <access origin="*" />
 
     <preference name="orientation" value="portrait" />
